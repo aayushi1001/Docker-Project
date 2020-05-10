@@ -22,12 +22,11 @@ configuring mysql:
 
 configuring wordpress:
 
-![Screenshot from 2020-05-09 18-33-31 (1)](https://user-images.githubusercontent.com/65100683/81495346-575ec100-92cd-11ea-81be-245e5b161d02.png)
-
-
 ![Screenshot from 2020-05-09 18-33-31](https://user-images.githubusercontent.com/65100683/81495354-6776a080-92cd-11ea-9837-59ec77fa79e6.png)
 
 creating website in wordpress:
+
+![Screenshot from 2020-05-09 18-33-31 (1)](https://user-images.githubusercontent.com/65100683/81495346-575ec100-92cd-11ea-81be-245e5b161d02.png)
 
 ![Screenshot from 2020-05-09 20-31-27 (1)](https://user-images.githubusercontent.com/65100683/81495459-0c917900-92ce-11ea-90ac-4ff2237d2e03.png)
 ![Screenshot from 2020-05-09 20-46-17](https://user-images.githubusercontent.com/65100683/81495464-11eec380-92ce-11ea-91a2-e3c9b3b43ca2.png)
