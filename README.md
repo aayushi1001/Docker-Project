@@ -13,6 +13,8 @@ docker pull aayu1001/database
 
 
 ![Screenshot from 2020-05-09 18-01-18](https://user-images.githubusercontent.com/65100683/81495174-f2ef3200-92cb-11ea-9287-e28265f2ab12.png)
+![Screenshot from 2020-05-09 18-06-32](https://user-images.githubusercontent.com/65100683/81495259-bf60d780-92cc-11ea-8545-dbb8ce820b8f.png)
+![Screenshot from 2020-05-09 18-32-36](https://user-images.githubusercontent.com/65100683/81495262-c556b880-92cc-11ea-9e2d-8f7c55f7c672.png)
 
 
 
