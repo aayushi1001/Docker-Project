@@ -12,11 +12,20 @@ This wordpress require database which can be taken from
 docker pull aayu1001/database
 
 
+Creating volume:
+
 ![Screenshot from 2020-05-09 18-01-18](https://user-images.githubusercontent.com/65100683/81495174-f2ef3200-92cb-11ea-9287-e28265f2ab12.png)
+
+
 ![Screenshot from 2020-05-09 18-06-32](https://user-images.githubusercontent.com/65100683/81495259-bf60d780-92cc-11ea-8545-dbb8ce820b8f.png)
 ![Screenshot from 2020-05-09 18-32-36](https://user-images.githubusercontent.com/65100683/81495262-c556b880-92cc-11ea-9e2d-8f7c55f7c672.png)
 ![Screenshot from 2020-05-09 18-33-31 (1)](https://user-images.githubusercontent.com/65100683/81495346-575ec100-92cd-11ea-81be-245e5b161d02.png)
 ![Screenshot from 2020-05-09 18-33-31](https://user-images.githubusercontent.com/65100683/81495354-6776a080-92cd-11ea-9837-59ec77fa79e6.png)
+![Screenshot from 2020-05-09 20-31-27 (1)](https://user-images.githubusercontent.com/65100683/81495459-0c917900-92ce-11ea-90ac-4ff2237d2e03.png)
+![Screenshot from 2020-05-09 20-46-17](https://user-images.githubusercontent.com/65100683/81495464-11eec380-92ce-11ea-91a2-e3c9b3b43ca2.png)
+![Screenshot from 2020-05-09 21-37-52](https://user-images.githubusercontent.com/65100683/81495470-1915d180-92ce-11ea-9e1c-8f7fb5e75306.png)
+![Screenshot from 2020-05-09 21-39-14](https://user-images.githubusercontent.com/65100683/81495476-1e731c00-92ce-11ea-9b39-116f5359ffd1.png)
+
 
 
 
